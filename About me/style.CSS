@@ -1,0 +1,38 @@
+.header{color: maroon;
+position: absolute;
+
+bottom:1200px;
+
+}
+
+.name{ color: #008000;
+position: absolute;
+bottom:1100px;
+
+}
+h3{ 
+    background-color: bisque;
+    position: absolute;
+    bottom:900px;
+   
+}
+h4{
+    background-color: bisque;
+    position: absolute;
+    bottom:1050px;
+
+}
+P{
+    background-color: aquamarine;
+    position: absolute;
+    border:3px solid black;
+    bottom: 800px;
+    
+}
+#bob{background-color: aquamarine;
+    position: absolute;
+    border:3px solid black;
+    bottom: 1000px;
+    
+
+}
